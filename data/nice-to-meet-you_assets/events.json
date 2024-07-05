@@ -1,0 +1,56 @@
+{
+	"song": {
+		"events": [
+			[
+				97500,
+				[
+					[
+						"Camera Flash",
+						"0xffffff",
+						"8"
+					]
+				]
+			],
+			[
+				97575,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"fantysbad"
+					]
+				]
+			],
+			[
+				97650,
+				[
+					[
+						"Play Animation",
+						"sigma",
+						"Dad"
+					]
+				]
+			],
+			[
+				98100,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bfsigma"
+					]
+				]
+			],
+			[
+				98175,
+				[
+					[
+						"Camera Follow Pos",
+						"1700",
+						"650"
+					]
+				]
+			]
+		]
+	}
+}
