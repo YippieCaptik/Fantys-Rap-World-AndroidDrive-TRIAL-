@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="logoFurry.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bup0000" x="10" y="10" width="2167" height="1219"/>
+	<SubTexture name="Bup0001" x="10" y="1239" width="2019" height="1135" frameX="-74" frameY="-42" frameWidth="2167" frameHeight="1219"/>
+	<SubTexture name="Bup0002" x="10" y="1239" width="2019" height="1135" frameX="-74" frameY="-42" frameWidth="2167" frameHeight="1219"/>
+	<SubTexture name="Bup0003" x="2039" y="1239" width="1941" height="1091" frameX="-113" frameY="-64" frameWidth="2167" frameHeight="1219"/>
+	<SubTexture name="Bup0004" x="2039" y="1239" width="1941" height="1091" frameX="-113" frameY="-64" frameWidth="2167" frameHeight="1219"/>
+	<SubTexture name="Bup0005" x="10" y="2384" width="1920" height="1080" frameX="-123" frameY="-69" frameWidth="2167" frameHeight="1219"/>
+	<SubTexture name="Bup0006" x="10" y="2384" width="1920" height="1080" frameX="-123" frameY="-69" frameWidth="2167" frameHeight="1219"/>
+	<SubTexture name="Bup0007" x="10" y="2384" width="1920" height="1080" frameX="-123" frameY="-69" frameWidth="2167" frameHeight="1219"/>
+	<SubTexture name="Bup0008" x="10" y="2384" width="1920" height="1080" frameX="-123" frameY="-69" frameWidth="2167" frameHeight="1219"/>
+	<SubTexture name="Bup0009" x="10" y="2384" width="1920" height="1080" frameX="-123" frameY="-69" frameWidth="2167" frameHeight="1219"/>
+	<SubTexture name="Bup0010" x="10" y="2384" width="1920" height="1080" frameX="-123" frameY="-69" frameWidth="2167" frameHeight="1219"/>
+	<SubTexture name="Bup0011" x="10" y="2384" width="1920" height="1080" frameX="-123" frameY="-69" frameWidth="2167" frameHeight="1219"/>
+	<SubTexture name="Bup0012" x="10" y="2384" width="1920" height="1080" frameX="-123" frameY="-69" frameWidth="2167" frameHeight="1219"/>
+	<SubTexture name="Bup0013" x="10" y="2384" width="1920" height="1080" frameX="-123" frameY="-69" frameWidth="2167" frameHeight="1219"/>
+</TextureAtlas>
