@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"hardcore",
+			"fantysmc-freeplay",
+			[
+				167,
+				160,
+				160
+			]
+		],
+		[
+			"nice-to-meet-you",
+			"fantysmc-freeplay",
+			[
+				167,
+				160,
+				160
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"bg",
+		"",
+		"java_button"
+	],
+	"storyName": "difficulty: hard",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
