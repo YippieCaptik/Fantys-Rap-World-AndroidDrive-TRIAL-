@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "bfrework idle"
+		},
+		{
+			"offsets": [
+				-14,
+				21
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "bfrework left"
+		},
+		{
+			"offsets": [
+				-1,
+				19
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "bfrework down"
+		},
+		{
+			"offsets": [
+				-3,
+				23
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "bfrework up"
+		},
+		{
+			"offsets": [
+				2,
+				22
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "bfrework right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "bfrework",
+	"position": [
+		-440,
+		470
+	],
+	"healthicon": "bfDLC",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-10,
+		-110
+	],
+	"sing_duration": 6.1,
+	"scale": 1.8
+}
