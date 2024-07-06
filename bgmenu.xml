@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bgmenu.png">
+<SubTexture name="bgmenu bgmenu0000" x="0" y="0" width="1286" height="730" frameX="0" frameY="0" frameWidth="1286" frameHeight="730" />
+<SubTexture name="bgmenu bgmenu0001" x="1286" y="0" width="1286" height="730" frameX="0" frameY="0" frameWidth="1286" frameHeight="730" />
+<SubTexture name="bgmenu bgmenu0002" x="0" y="730" width="1286" height="730" frameX="0" frameY="0" frameWidth="1286" frameHeight="730" />
+<SubTexture name="bgmenu bgmenu0003" x="1286" y="730" width="1286" height="730" frameX="0" frameY="0" frameWidth="1286" frameHeight="730" />
+<SubTexture name="bgmenu bgmenu0004" x="0" y="1460" width="1286" height="730" frameX="0" frameY="0" frameWidth="1286" frameHeight="730" />
+<SubTexture name="bgmenu bgmenu0005" x="1286" y="1460" width="1286" height="730" frameX="0" frameY="0" frameWidth="1286" frameHeight="730" />
+<SubTexture name="bgmenu bgmenu0006" x="2572" y="0" width="1286" height="730" frameX="0" frameY="0" frameWidth="1286" frameHeight="730" />
+<SubTexture name="bgmenu bgmenu0007" x="2572" y="730" width="1286" height="730" frameX="0" frameY="0" frameWidth="1286" frameHeight="730" />
+<SubTexture name="bgmenu bgmenu0008" x="2572" y="1460" width="1286" height="730" frameX="0" frameY="0" frameWidth="1286" frameHeight="730" />
+<SubTexture name="bgmenu bgmenu0009" x="0" y="2190" width="1286" height="730" frameX="0" frameY="0" frameWidth="1286" frameHeight="730" />
+<SubTexture name="bgmenu bgmenu0010" x="1286" y="2190" width="1286" height="730" frameX="0" frameY="0" frameWidth="1286" frameHeight="730" />
+<SubTexture name="bgmenu bgmenu0011" x="2572" y="2190" width="1286" height="730" frameX="0" frameY="0" frameWidth="1286" frameHeight="730" />
+<SubTexture name="bgmenu bgmenu0012" x="0" y="2920" width="1286" height="730" frameX="0" frameY="0" frameWidth="1286" frameHeight="730" />
+<SubTexture name="bgmenu bgmenu0013" x="1286" y="2920" width="1286" height="730" frameX="0" frameY="0" frameWidth="1286" frameHeight="730" />
+<SubTexture name="bgmenu bgmenu0014" x="2572" y="2920" width="1286" height="730" frameX="0" frameY="0" frameWidth="1286" frameHeight="730" />
+<SubTexture name="bgmenu bgmenu0015" x="3858" y="0" width="1286" height="730" frameX="0" frameY="0" frameWidth="1286" frameHeight="730" />
+</TextureAtlas>
