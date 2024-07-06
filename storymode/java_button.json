@@ -1,0 +1,11 @@
+{
+	"idle_anim": "button enter",
+	"image": "menu_java_button",
+	"position": [
+		487,
+		-253
+	],
+	"flipX": false,
+	"scale": 0.85,
+	"confirm_anim": "button press"
+}

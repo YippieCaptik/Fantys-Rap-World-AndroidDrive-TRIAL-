@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_java_button.png">
+<SubTexture name="button enter0000" x="0" y="0" width="1055" height="129" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="button press0001" x="0" y="125" width="1055" height="129" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

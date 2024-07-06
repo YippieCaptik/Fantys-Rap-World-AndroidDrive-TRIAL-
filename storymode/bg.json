@@ -1,0 +1,11 @@
+{
+	"idle_anim": "background idle",
+	"image": "menu_background",
+	"position": [
+		484,
+		334
+	],
+	"flipX": false,
+	"scale": 0.75,
+	"confirm_anim": "M Dad Idle"
+}
